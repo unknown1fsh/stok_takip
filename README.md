@@ -614,8 +614,7 @@ Bu proje özel kullanım için geliştirilmiştir.
 
 ## 👨‍💻 Geliştirici
 
-**Selim Sercan Çınar**  
-Senior Full Stack Java Developer
+unknown1fsh
 
 ---
 
